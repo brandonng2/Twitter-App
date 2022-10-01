@@ -22,8 +22,8 @@ The following **bonus** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
-
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<br />
+<img src="https://user-images.githubusercontent.com/96798414/193430964-0d1c4826-4b45-4a94-a0f0-57bfcbc5f543.gif" height=500>
 
 # Twitter - Part I
 
@@ -49,6 +49,6 @@ The following **bonus** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
-
-![TwitterAppDemo](https://user-images.githubusercontent.com/96798414/192412117-f792db86-7882-4552-b9e6-938445c4b228.gif)
+<br />
+<img src="https://user-images.githubusercontent.com/96798414/192412117-f792db86-7882-4552-b9e6-938445c4b228.gif" height=500>
 
